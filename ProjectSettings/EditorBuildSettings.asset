@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scanes/manulavel.unity
+    guid: f8c8beef791d6f442baa546f8ec25c64
+  - enabled: 1
+    path: Assets/Scanes/gamelevel3.unity
+    guid: e7b73b37a1239dd44bba36fde2fd02b4
+  m_configObjects: {}
